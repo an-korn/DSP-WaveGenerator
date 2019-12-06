@@ -1,0 +1,9 @@
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\bin\Debug\WaveGenerator.exe.config
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\bin\Debug\WaveGenerator.exe
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\bin\Debug\WaveGenerator.pdb
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\obj\Debug\WaveGenerator.csprojResolveAssemblyReference.cache
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\obj\Debug\WaveGenerator.WaveGenerator.resources
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\obj\Debug\WaveGenerator.Properties.Resources.resources
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\obj\Debug\WaveGenerator.csproj.GenerateResource.Cache
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\obj\Debug\WaveGenerator.exe
+E:\Учёба\4 курс\COS\WaveGenerator\WaveGenerator\obj\Debug\WaveGenerator.pdb
